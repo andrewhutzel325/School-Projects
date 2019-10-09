@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Xyz/CLionProjects/csc415-p5-andrewhutzel325/part1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Xyz/CLionProjects/csc415-p5-andrewhutzel325/part1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Xyz/CLionProjects/csc415-p5-andrewhutzel325/part1/cmake-build-debug/CMakeFiles/pthread_racer.dir
