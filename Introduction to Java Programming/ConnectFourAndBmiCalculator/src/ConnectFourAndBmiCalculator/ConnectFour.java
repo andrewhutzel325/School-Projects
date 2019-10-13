@@ -58,9 +58,7 @@ public class ConnectFour {
                 break;
             }
 
-            /*
-             Write code to announce  if there is  winner and end the game
-             */
+
         } // end of while loop
 
     } // end of main
@@ -156,7 +154,7 @@ public class ConnectFour {
                     //Check
                     //System.out.println("\nJ+6\n\n");
                     for (int x = j, y = 0, r = 0; x >= 1; x -= 2) {
-                        //Basically count all them stupid ass R's or Y's
+                        
                         if (brd[i][x] == "Y") {
                             r=0;
                             y++;
@@ -167,10 +165,10 @@ public class ConnectFour {
                             //System.out.println("Red's value:"+r);
                         }
                         if (r == 4) {
-                            //System.out.println("RED WINS BITCH");
+                            
                             str = "Red wins";
                         } else if (y == 4) {
-                            //System.out.println("YELLOW WINS BITCH");
+                            
                             str = "Yellow wins";
                         }
 
@@ -196,10 +194,10 @@ public class ConnectFour {
                             //System.out.println("Red's value:"+r);
                         }
                         if (r == 4) {
-                            //System.out.println("RED WINS BITCH");
+                            
                             str = "Red wins";
                         } else if (y == 4) {
-                            //System.out.println("YELLOW WINS BITCH");
+                            
                             str = "Yellow wins";
                         }
                     }
@@ -226,10 +224,10 @@ public class ConnectFour {
                             //System.out.println("Red's value:"+r);
                         }
                         if (r == 4) {
-                            //System.out.println("RED WINS BITCH");
+                            
                             str = "Red wins";
                         } else if (y == 4) {
-                            //System.out.println("YELLOW WINS BITCH");
+                            
                             str = "Yellow wins";
                         }
                     }
@@ -252,10 +250,10 @@ public class ConnectFour {
                             //System.out.println("Red's value:"+r);
                         }
                         if (r == 4) {
-                            //System.out.println("RED WINS BITCH");
+                            
                             str = "Red wins";
                         } else if (y == 4) {
-                            //System.out.println("YELLOW WINS BITCH");
+                            
                             str = "Yellow wins";
                         }
                     }
