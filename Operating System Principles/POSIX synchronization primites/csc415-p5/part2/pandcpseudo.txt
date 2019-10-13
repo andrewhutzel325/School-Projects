@@ -1,0 +1,35 @@
+pseudo goes here
+
+Enqueue{
+    //Obviously going to allocate space onto a 1d array
+}
+
+Dequeue{
+    //Pull off of the 1d array and free up space.
+}
+
+Init{
+    //Process starts, allocate spaces here?
+}
+
+Main{
+    //Bounded buffer Queue created
+    //Print a time stamp
+    //Spawn off C consumer threads
+    //Spawn off P producer threads
+    //Wait for the threads to finish...
+    //Print off timestamp (beginning)
+    //Print off timestamp, as well as execution time (ending)
+
+}
+
+Producer{
+    //Enqueue X #s onto the queue while sleeping
+    //for Ptime cycles in between each call to Enqueue
+
+}
+
+Consumer{
+    //Dequeue P*X/C, checks for even divisibility, sleep for each
+    //Ctime cycles in between each call to Dequeue
+}

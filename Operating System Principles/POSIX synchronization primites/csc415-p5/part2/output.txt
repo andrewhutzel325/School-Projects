@@ -1,0 +1,250 @@
+pandc 7 5 3 15 1 1
+Elements: 7
+Producers:5
+Consumers:3
+Producer will produce:15
+Ptime:1
+Ctime:1
+
+The current time is Thu Apr 26 00:06:02 2018
+
+0 was produced by producer->0
+1 was produced by producer->0
+2 was produced by producer->0
+3 was produced by producer->3
+4 was produced by producer->4
+4 was consumed by consumer->0
+3 was consumed by consumer->0
+2 was consumed by consumer->0
+5 was produced by producer->4
+5 was consumed by consumer->0
+6 was produced by producer->0
+6 was consumed by consumer->0
+7 was produced by producer->3
+7 was consumed by consumer->0
+8 was produced by producer->2
+8 was consumed by consumer->2
+9 was produced by producer->4
+9 was consumed by consumer->2
+10 was produced by producer->0
+10 was consumed by consumer->2
+11 was produced by producer->0
+11 was consumed by consumer->2
+12 was produced by producer->0
+12 was consumed by consumer->2
+13 was produced by producer->0
+13 was consumed by consumer->2
+14 was produced by producer->0
+14 was consumed by consumer->2
+15 was produced by producer->0
+15 was consumed by consumer->2
+16 was produced by producer->0
+16 was consumed by consumer->2
+17 was produced by producer->0
+17 was consumed by consumer->2
+18 was produced by producer->0
+18 was consumed by consumer->2
+19 was produced by producer->0
+19 was consumed by consumer->2
+20 was produced by producer->0
+20 was consumed by consumer->2
+Producer Thread joined:0
+21 was produced by producer->2
+22 was produced by producer->2
+23 was produced by producer->4
+23 was consumed by consumer->1
+22 was consumed by consumer->1
+21 was consumed by consumer->1
+24 was produced by producer->1
+25 was produced by producer->1
+26 was produced by producer->2
+27 was produced by producer->3
+27 was consumed by consumer->0
+26 was consumed by consumer->0
+25 was consumed by consumer->0
+24 was consumed by consumer->0
+28 was produced by producer->4
+29 was produced by producer->4
+30 was produced by producer->2
+30 was consumed by consumer->2
+29 was consumed by consumer->2
+28 was consumed by consumer->2
+31 was produced by producer->1
+32 was produced by producer->1
+33 was produced by producer->4
+33 was consumed by consumer->1
+32 was consumed by consumer->1
+31 was consumed by consumer->1
+1 was consumed by consumer->0
+0 was consumed by consumer->2
+34 was produced by producer->1
+35 was produced by producer->1
+36 was produced by producer->1
+37 was produced by producer->1
+37 was consumed by consumer->1
+36 was consumed by consumer->1
+35 was consumed by consumer->0
+38 was produced by producer->4
+39 was produced by producer->4
+40 was produced by producer->4
+41 was produced by producer->1
+42 was produced by producer->3
+42 was consumed by consumer->1
+41 was consumed by consumer->1
+40 was consumed by consumer->1
+39 was consumed by consumer->1
+43 was produced by producer->4
+44 was produced by producer->4
+45 was produced by producer->1
+45 was consumed by consumer->2
+44 was consumed by consumer->2
+43 was consumed by consumer->2
+38 was consumed by consumer->1
+46 was produced by producer->2
+47 was produced by producer->2
+48 was produced by producer->2
+48 was consumed by consumer->0
+47 was consumed by consumer->0
+49 was produced by producer->3
+50 was produced by producer->3
+51 was produced by producer->4
+51 was consumed by consumer->1
+50 was consumed by consumer->1
+49 was consumed by consumer->1
+46 was consumed by consumer->2
+34 was consumed by consumer->0
+52 was produced by producer->1
+53 was produced by producer->1
+54 was produced by producer->1
+55 was produced by producer->1
+56 was produced by producer->3
+56 was consumed by consumer->1
+55 was consumed by consumer->1
+54 was consumed by consumer->1
+53 was consumed by consumer->0
+57 was produced by producer->2
+58 was produced by producer->2
+59 was produced by producer->2
+60 was produced by producer->4
+61 was produced by producer->3
+61 was consumed by consumer->1
+60 was consumed by consumer->1
+59 was consumed by consumer->1
+58 was consumed by consumer->1
+62 was produced by producer->2
+63 was produced by producer->2
+64 was produced by producer->4
+65 was produced by producer->1
+66 was produced by producer->3
+Producer Thread joined:1
+66 was consumed by consumer->0
+65 was consumed by consumer->0
+64 was consumed by consumer->0
+63 was consumed by consumer->0
+62 was consumed by consumer->0
+67 was produced by producer->3
+68 was produced by producer->3
+69 was produced by producer->3
+70 was produced by producer->3
+70 was consumed by consumer->0
+69 was consumed by consumer->0
+68 was consumed by consumer->0
+67 was consumed by consumer->0
+71 was produced by producer->3
+72 was produced by producer->3
+72 was consumed by consumer->1
+71 was consumed by consumer->1
+57 was consumed by consumer->2
+52 was consumed by consumer->2
+73 was produced by producer->2
+74 was produced by producer->2
+74 was consumed by consumer->2
+Producer Thread joined:2
+Producer Thread joined:3
+Producer Thread joined:4
+Consumer Thread joined:0
+Consumer Thread joined:1
+73 was consumed by consumer->2
+Consumer Thread joined:2
+
+The current time is Thu Apr 26 00:08:32 2018
+
+Producer Consumer
+ 0		|0
+ 1		|1
+ 2		|2
+ 3		|3
+ 4		|4
+ 5		|5
+ 6		|6
+ 7		|7
+ 8		|8
+ 9		|9
+ 10		|10
+ 11		|11
+ 12		|12
+ 13		|13
+ 14		|14
+ 15		|15
+ 16		|16
+ 17		|17
+ 18		|18
+ 19		|19
+ 20		|20
+ 21		|21
+ 22		|22
+ 23		|23
+ 24		|24
+ 25		|25
+ 26		|26
+ 27		|27
+ 28		|28
+ 29		|29
+ 30		|30
+ 31		|31
+ 32		|32
+ 33		|33
+ 34		|34
+ 35		|35
+ 36		|36
+ 37		|37
+ 38		|38
+ 39		|39
+ 40		|40
+ 41		|41
+ 42		|42
+ 43		|43
+ 44		|44
+ 45		|45
+ 46		|46
+ 47		|47
+ 48		|48
+ 49		|49
+ 50		|50
+ 51		|51
+ 52		|52
+ 53		|53
+ 54		|54
+ 55		|55
+ 56		|56
+ 57		|57
+ 58		|58
+ 59		|59
+ 60		|60
+ 61		|61
+ 62		|62
+ 63		|63
+ 64		|64
+ 65		|65
+ 66		|66
+ 67		|67
+ 68		|68
+ 69		|69
+ 70		|70
+ 71		|71
+ 72		|72
+ 73		|73
+ 74		|74
+ Arrays do match.
+Total run time: 150.030571
+Process finished with exit code 0
